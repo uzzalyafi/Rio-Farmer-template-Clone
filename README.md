@@ -1,8 +1,16 @@
-# React + Vite
+# rRio-Framer-template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive template built using **React**, **Tailwind CSS**, and **JavaScript**. This template leverages smooth animations and transitions to create a visually appealing user interface, making it perfect for showcasing creative portfolios or modern websites.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: A component-based JavaScript library for building dynamic user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+- **Framer Motion**: A powerful animation library for React.
+- **Responsive Design**: Optimized for all device sizes.
+- **Reusable Components**: Modular components for easy customization.
+
+
+
+
+
